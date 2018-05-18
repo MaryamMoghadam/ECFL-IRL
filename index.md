@@ -4,6 +4,8 @@ Real time coastal wind, wave, and water level guidance is presented here for the
 
 This guidance is for use by official decision makers and does not represent an official forecast. All private citizens are advised to seek information from their local National Weather Service Weather Forecast Office or local Emergency Manager. 
 
+<img src="https://satellitemaps.nesdis.noaa.gov/arcgis/apps/webappviewer/index.html?id=4da21c3c398946f293e0436fb926702c">
+
 <img src="http://www.nhc.noaa.gov/xgtwo/two_atl_2d0.png">
 source [National Hurricane Center (NHC)](http:\\nhc.noaa.gov)
 
